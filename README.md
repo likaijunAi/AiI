@@ -1,2 +1,2 @@
-# aii
+# AiI
 Artificial Intelligence Interface 
