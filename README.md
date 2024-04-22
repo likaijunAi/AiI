@@ -1,2 +1,2 @@
 # AiI
-Artificial Intelligence Interface 
+AI Interface
